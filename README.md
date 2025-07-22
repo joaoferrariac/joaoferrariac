@@ -7,8 +7,9 @@
 <p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.fatecsp.br/" target="blank_">Fatec - SP</a></p>
 
 <hr>
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,nextjs,html,css,python,php,aws,mysql,docker,mongodb" alt="My Skills" />
   </a>
 </div>
+
