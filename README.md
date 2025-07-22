@@ -8,7 +8,7 @@
 
 <hr>
 
-<h2>☕ Minhas Habilidades: </h2>
+<code>☕ Minhas Habilidades:</code>
 
 <div align="center">
   
