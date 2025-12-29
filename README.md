@@ -1,10 +1,31 @@
 <code>System.out.println("Welcome to my github!😆")</code>
 
 <hr>
-<p>👨‍💻 System Analyst JR at <a href="https://www.bmz.com.br/" target="blank_">BMZ - Negócios Automotivos</p>
+
+<p>👨‍💻 System Analyst JR at <a href="https://www.bmz.com.br/" target="blank_">BMZ - Negócios Automotivos</a></p>
 <p>🎓 AI & ML Fellow at <a href="https://compass.uol/en/home/" target="blank_">Compass UOL</a></p>
 <p>🎓 Graduating in Software Engineering at <a href="https://www.anhanguera.com/" target="blank_">Unopar - Anhanguera</a></p>
 <p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.fatecsp.br/" target="blank_">Fatec - SP</a></p>
+
+<hr>
+
+<code>🌐 My Portfolio:</code>
+
+<div align="center">
+
+🚀 Conheça meus projetos, experiências e estudos  
+👉 <a href="https://joaoferraridev.com" target="_blank"><b>joaoferraridev.com</b></a>
+
+<br><br>
+
+<a href="https://joaoferraridev.com" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Portfolio-João%20Ferrari-B253FF?style=for-the-badge&logo=vercel&logoColor=white" 
+    alt="Portfolio João Ferrari"
+  />
+</a>
+
+</div>
 
 <hr>
 
