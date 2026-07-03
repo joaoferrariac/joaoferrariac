@@ -1,6 +1,6 @@
 System.out.println("Welcome to my github!😆")
 <hr>
-<p>👨‍💻 Performance & Automation Analyst at <a href="https://www.iappsoftware.com.br/" target="blank_">iApp Software</a></p>
+<p>👨‍💻 Performance & Automation Analyst at <a href="https://www.iniciativaaplicativos.com.br/" target="blank_">iApp Software</a></p>
 <p>🎓 AI & ML Fellow at <a href="https://compass.uol/en/home/" target="blank_">Compass UOL</a></p>
 <p>🎓 Graduating in Software Engineering at <a href="https://www.anhanguera.com/" target="blank_">Unopar - Anhanguera</a></p>
 <p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.fatecsp.br/" target="blank_">Fatec - SP</a></p>
