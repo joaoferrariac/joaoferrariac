@@ -8,7 +8,7 @@ System.out.println("Welcome to my github!😆")
 <code>☕ My Skills:</code>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,docker,postgres,mysql,mongodb,aws,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,docker,postgres,aws,git)](https://skillicons.dev)
   
 </div>
 <hr>
